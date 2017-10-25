@@ -1,0 +1,39 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-crosswalk-webview": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.company.app"
+    },
+    "cordova-custom-config": {
+      "PACKAGE_NAME": "com.company.app"
+    }
+  },
+  "dependent_plugins": {}
+}

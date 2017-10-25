@@ -1,0 +1,83 @@
+{
+  "name": "cordova-plugin-whitelist",
+  "description": "Cordova Whitelist Plugin",
+  "version": "1.3.2",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-whitelist#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-whitelist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-whitelist/issues"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "0.0.0": {
+        "cordova-android": ">=4.0.0"
+      },
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-whitelist/-/cordova-plugin-whitelist-1.3.2.tgz",
+    "shasum": "5b6335feb9f5301f3c013b9096cb8885bdbd5076"
+  },
+  "keywords": [
+    "cordova",
+    "whitelist",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_from": "cordova-plugin-whitelist@>=1.3.0 <1.4.0",
+  "_npmVersion": "4.1.1",
+  "_npmUser": {
+    "name": "stevegill",
+    "email": "stevengill97@gmail.com"
+  },
+  "_id": "cordova-plugin-whitelist@1.3.2",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-whitelist-1.3.2.tgz_1488934526149_0.2759723379276693"
+  },
+  "_shasum": "5b6335feb9f5301f3c013b9096cb8885bdbd5076",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-whitelist/-/cordova-plugin-whitelist-1.3.2.tgz",
+  "_nodeVersion": "6.6.0"
+}

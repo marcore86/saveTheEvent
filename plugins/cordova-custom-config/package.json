@@ -1,0 +1,79 @@
+{
+  "name": "cordova-custom-config",
+  "description": "Cordova/Phonegap plugin to update platform configuration files based on preferences and config-file data defined in config.xml.",
+  "version": "4.0.2",
+  "author": {
+    "name": "Dave Alden"
+  },
+  "homepage": "https://github.com/dpa99c/cordova-custom-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpa99c/cordova-custom-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dpa99c/cordova-custom-config/issues"
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-custom-config/-/cordova-custom-config-4.0.2.tgz",
+    "shasum": "76e88a40ad213754069f2e64981e9167a597dfee"
+  },
+  "dependencies": {
+    "lodash": "^4.3.0",
+    "elementtree": "^0.1.6",
+    "plist": "^1.2.0",
+    "xcode": "^0.8.9",
+    "colors": "^1.1.2",
+    "shelljs": "^0.7.0",
+    "tostr": "^0.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0",
+    "got": "^6.5.0"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "phonegap",
+    "config",
+    "configuration",
+    "plist",
+    "manifest"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "davealden",
+      "email": "dave@workingedge.co.uk"
+    }
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "jshint hooks"
+  },
+  "_from": "cordova-custom-config@>=4.0.2 <4.1.0",
+  "_npmVersion": "4.2.0",
+  "_npmUser": {
+    "name": "davealden",
+    "email": "dave@workingedge.co.uk"
+  },
+  "_id": "cordova-custom-config@4.0.2",
+  "gitHead": "e196c1fa2e840b8073bd9700f701b33a240da226",
+  "cordova": {
+    "id": "cordova-custom-config",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "issue": "https://github.com/dpa99c/cordova-custom-config/issues",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-custom-config-4.0.2.tgz_1497513648170_0.05083384085446596"
+  },
+  "_shasum": "76e88a40ad213754069f2e64981e9167a597dfee",
+  "cordova_name": "cordova-custom-config",
+  "_nodeVersion": "7.10.0",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-custom-config/-/cordova-custom-config-4.0.2.tgz"
+}

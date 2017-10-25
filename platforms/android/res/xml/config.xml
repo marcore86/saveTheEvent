@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.company.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Keyboard">
+        <param name="android-package" value="io.ionic.keyboard.IonicKeyboard" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Globalization">
+        <param name="android-package" value="org.apache.cordova.globalization.Globalization" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>App</name>
+    <description>
+    A mobile app based on Ionic and Cordova.
+  </description>
+    <author email="you@example.com" href="http://example.com.com/">
+    Your Name Here
+  </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-navigation href="*" />
+    <icon density="ldpi" src=".tmp/resources/android/icon/drawable-ldpi-icon.png" />
+    <icon density="mdpi" src=".tmp/resources/android/icon/drawable-mdpi-icon.png" />
+    <icon density="hdpi" src=".tmp/resources/android/icon/drawable-hdpi-icon.png" />
+    <icon density="xhdpi" src=".tmp/resources/android/icon/drawable-xhdpi-icon.png" />
+    <icon density="xxhdpi" src=".tmp/resources/android/icon/drawable-xxhdpi-icon.png" />
+    <icon density="xxxhdpi" src=".tmp/resources/android/icon/drawable-xxxhdpi-icon.png" />
+    <splash density="port-ldpi" src=".tmp/resources/android/splash/drawable-port-ldpi-screen.png" />
+    <splash density="port-mdpi" src=".tmp/resources/android/splash/drawable-port-mdpi-screen.png" />
+    <splash density="port-hdpi" src=".tmp/resources/android/splash/drawable-port-hdpi-screen.png" />
+    <splash density="port-xhdpi" src=".tmp/resources/android/splash/drawable-port-xhdpi-screen.png" />
+    <splash density="port-xxhdpi" src=".tmp/resources/android/splash/drawable-port-xxhdpi-screen.png" />
+    <splash density="port-xxxhdpi" src=".tmp/resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="webView" value="org.crosswalk.engine.XWalkWebViewEngine" />
+    <preference name="xwalkVersion" value="23+" />
+    <preference name="xwalkLiteVersion" value="xwalk_core_library_canary:17+" />
+    <preference name="xwalkCommandLine" value="--disable-pull-to-refresh-effect" />
+    <preference name="xwalkMode" value="embedded" />
+    <preference name="xwalkMultipleApk" value="true" />
+    <preference name="android-minSdkVersion" value="23" />
+    <preference name="Fullscreen" value="false" />
+    <preference name="webviewbounce" value="true" />
+    <preference name="Orientation" value="portrait" />
+    <preference name="StatusBarStyle" value="default" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="loadUrlTimeoutValue" value="60000" />
+    <preference name="android-manifest/application/activity/@android:theme" value="@android:style/Theme.DeviceDefault" />
+</widget>

@@ -1,0 +1,88 @@
+{
+  "name": "cordova-plugin-crosswalk-webview",
+  "description": "Changes the default WebView to CrossWalk",
+  "version": "2.3.0",
+  "author": "",
+  "homepage": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview.git"
+  },
+  "bugs": {
+    "url": "https://crosswalk-project.org/jira"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": "4 - 5"
+      },
+      "2.1.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": "4 - 5"
+      },
+      "2.2.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": ">=6"
+      },
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-crosswalk-webview/-/cordova-plugin-crosswalk-webview-2.3.0.tgz",
+    "shasum": "e2ee34ecfdaddd84bda84e72663539e40c99d324"
+  },
+  "keywords": [
+    "cordova",
+    "chromium",
+    "crosswalk",
+    "webview",
+    "engine",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "agrieve",
+      "email": "agrieve@chromium.org"
+    },
+    {
+      "name": "clelland",
+      "email": "iclelland@google.com"
+    },
+    {
+      "name": "huningxin",
+      "email": "ningxin.hu@intel.com"
+    },
+    {
+      "name": "fujunwei",
+      "email": "junwei.fu@intel.com"
+    }
+  ],
+  "directories": {},
+  "scripts": {},
+  "_from": "cordova-plugin-crosswalk-webview@>=2.3.0 <2.4.0",
+  "_npmVersion": "2.15.9",
+  "_npmUser": {
+    "name": "fujunwei",
+    "email": "junwei.fu@intel.com"
+  },
+  "_id": "cordova-plugin-crosswalk-webview@2.3.0",
+  "gitHead": "7eab829d025c936e591326d34f1c60d34a0c7cbc",
+  "cordova": {
+    "id": "cordova-plugin-crosswalk-webview",
+    "platforms": [
+      "android"
+    ]
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-crosswalk-webview-2.3.0.tgz_1485313060543_0.1785983918234706"
+  },
+  "_shasum": "e2ee34ecfdaddd84bda84e72663539e40c99d324",
+  "_nodeVersion": "4.6.0",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-crosswalk-webview/-/cordova-plugin-crosswalk-webview-2.3.0.tgz"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "cordova-plugin-globalization",
+  "description": "Cordova Globalization Plugin",
+  "version": "1.0.7",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-globalization#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-globalization.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-globalization/issues"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.7.tgz",
+    "shasum": "b9941848fb5eb5dcd633e6971118fad638f648cf"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "keywords": [
+    "cordova",
+    "globalization",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows",
+    "cordova-tizen",
+    "cordova-blackberry10"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "npm run jshint",
+    "jshint": "jshint www && jshint src && jshint tests"
+  },
+  "_from": "cordova-plugin-globalization@>=1.0.7 <1.1.0",
+  "_npmVersion": "3.10.10",
+  "_npmUser": {
+    "name": "filmaj",
+    "email": "maj.fil@gmail.com"
+  },
+  "_id": "cordova-plugin-globalization@1.0.7",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-globalization",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "firefoxos",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows",
+      "tizen",
+      "blackberry10"
+    ]
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-globalization-1.0.7.tgz_1493685642490_0.06781368516385555"
+  },
+  "_shasum": "b9941848fb5eb5dcd633e6971118fad638f648cf",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-globalization/-/cordova-plugin-globalization-1.0.7.tgz",
+  "_nodeVersion": "6.10.1"
+}

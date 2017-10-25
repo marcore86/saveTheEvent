@@ -1,0 +1,74 @@
+{
+  "name": "ionic-plugin-keyboard",
+  "description": "Ionic Keyboard Plugin",
+  "version": "2.2.1",
+  "author": {
+    "name": "Ionic"
+  },
+  "homepage": "https://github.com/driftyco/ionic-plugin-keyboard#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/driftyco/ionic-plugin-keyboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/driftyco/ionic-plugin-keyboard/issues"
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/ionic-plugin-keyboard/-/ionic-plugin-keyboard-2.2.1.tgz",
+    "shasum": "f2a9e169bbe9b5522400347c9fd6d3467ee3fa12"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "keyboard",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp8",
+    "cordova-windows"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "drifty",
+      "email": "max@drifty.com"
+    },
+    {
+      "name": "ionicjs",
+      "email": "hi@ionicframework.com"
+    },
+    {
+      "name": "tlancina",
+      "email": "tim@ionic.io"
+    }
+  ],
+  "directories": {},
+  "scripts": {},
+  "_from": "ionic-plugin-keyboard@>=2.2.1 <2.3.0",
+  "_npmVersion": "3.8.6",
+  "_npmUser": {
+    "name": "tlancina",
+    "email": "tim@ionic.io"
+  },
+  "_id": "ionic-plugin-keyboard@2.2.1",
+  "gitHead": "011283b781a94ba9db9d87fc9531790fcd8aa7e7",
+  "cordova": {
+    "id": "ionic-plugin-keyboard",
+    "platforms": [
+      "android",
+      "ios",
+      "blackberry10",
+      "wp8",
+      "windows"
+    ]
+  },
+  "issue": "https://github.com/driftyco/ionic-plugin-keyboard/issues",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/ionic-plugin-keyboard-2.2.1.tgz_1466455438454_0.6977111059240997"
+  },
+  "_shasum": "f2a9e169bbe9b5522400347c9fd6d3467ee3fa12",
+  "_nodeVersion": "5.11.1",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/ionic-plugin-keyboard/-/ionic-plugin-keyboard-2.2.1.tgz"
+}

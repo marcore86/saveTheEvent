@@ -1,0 +1,116 @@
+{
+  "name": "cordova-plugin-splashscreen",
+  "description": "Cordova Splashscreen Plugin",
+  "version": "4.0.3",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-splashscreen#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-splashscreen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-splashscreen/issues"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova-android": ">=3.6.0"
+      },
+      "4.0.0": {
+        "cordova-android": ">=3.6.0",
+        "cordova-windows": ">=4.4.0"
+      },
+      "5.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "dist": {
+    "tarball": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-splashscreen/-/cordova-plugin-splashscreen-4.0.3.tgz",
+    "shasum": "773cd1363c1f3bacb9901663e9e3793dd3e0a19d"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "keywords": [
+    "cordova",
+    "splashscreen",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-blackberry10",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-tizen"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "kotikov.vladimir",
+      "email": "kotikov.vladimir@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "directories": {},
+  "scripts": {
+    "test": "npm run jshint",
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests"
+  },
+  "_from": "cordova-plugin-splashscreen@>=4.0.0 <4.1.0",
+  "_npmVersion": "3.10.10",
+  "_npmUser": {
+    "name": "filmaj",
+    "email": "maj.fil@gmail.com"
+  },
+  "_id": "cordova-plugin-splashscreen@4.0.3",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-splashscreen",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp8",
+      "windows8",
+      "windows",
+      "tizen"
+    ]
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-splashscreen-4.0.3.tgz_1493685654007_0.6477097773458809"
+  },
+  "_shasum": "773cd1363c1f3bacb9901663e9e3793dd3e0a19d",
+  "_resolved": "https://oneit.wba.com/artifactory/api/npm/rx-rnwl-npm/cordova-plugin-splashscreen/-/cordova-plugin-splashscreen-4.0.3.tgz",
+  "_nodeVersion": "6.10.1"
+}

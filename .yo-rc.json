@@ -1,0 +1,11 @@
+{
+  "generator-angular-pro": {
+    "version": "2.2.4",
+    "props": {
+      "appName": "saveTheEvent",
+      "target": "both",
+      "ui": "ionic",
+      "projectName": "save-the-event"
+    }
+  }
+}
